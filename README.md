@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Computer Science and Engineering student under the Military Institute of Science and <br>Technology with a keen research interest in Computer Vision, Machine Learning and Artificial Intelligence..
+Passionate Computer Science and Engineering student under the Military Institute of Science and <br>Technology with a keen interest in Computer Vision, Machine Learning and Artificial Intelligence.
 
 
 ## 🌐 Socials:
